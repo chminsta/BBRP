@@ -1,0 +1,5 @@
+./sam/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib
+./segment-anything-2/.git/objects/pack/pack-03caea1add140239579c43bb2b170f5f315a7ee0.pack
+./segment-anything-2/checkpoints/sam2_hiera_large.pt
+./segment-anything-2/checkpoints/sam2_hiera_tiny.pt
+./weights/yolov10m.pt
